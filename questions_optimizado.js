@@ -234,9 +234,8 @@ export const questions = [
     opciones: ["Infantería y caballería ligera", "Tropas de línea, cazadores, artillería y guerrillas", "Tercios veteranos", "Voluntarios franceses"],
     correcta: 1
   },
-  
   {
-    pregunta: "Pregunta 1: ¿Qué acontecimiento dio comienzo a la Segunda Guerra Púnica?",
+    pregunta: "¿Qué acontecimiento dio comienzo a la Segunda Guerra Púnica?",
     opciones: [
       "La invasión de Sagunto, rompiendo el tratado con Roma",
       "La derrota en la batalla de Cannae",
@@ -246,7 +245,7 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Pregunta 2: ¿En qué batalla fueron derrotados los romanos durante la Segunda Guerra Celtibérica?",
+    pregunta: "¿En qué batalla fueron derrotados los romanos durante la Segunda Guerra Celtibérica?",
     opciones: [
       "Batalla de Numancia",
       "Batalla de Carthago Nova",
@@ -256,7 +255,7 @@ export const questions = [
     correcta: 1
   },
   {
-    pregunta: "Pregunta 3: ¿Quién fue el líder romano durante la organización del ejército en la época en que llegaron a España?",
+    pregunta: "¿Quién fue el líder romano durante la organización del ejército en la época en que llegaron a España?",
     opciones: [
       "Julio César",
       "Escipión el Africano",
@@ -266,17 +265,17 @@ export const questions = [
     correcta: 1
   },
   {
-    pregunta: "Parte 2 - Pregunta 4: ¿Qué unidad militar fue creada por los Reyes Católicos para las guerras de la Reconquista?",
+    pregunta: "¿Qué unidad militar fue creada por los Reyes Católicos para las guerras de la Reconquista?",
     opciones: [
       "Los almogávares",
       "Los tercios",
       "La Guardia Real",
       "Los tercios viejos"
     ],
-    correcta: 1
+    correcta: 0
   },
   {
-    pregunta: "Parte 2 - Pregunta 5: ¿Qué batalla de 1525 significó una victoria para los tercios de Gonzalo Fernández de Córdoba?",
+    pregunta: "¿Qué batalla de 1525 significó una victoria para los tercios de Gonzalo Fernández de Córdoba?",
     opciones: [
       "Batalla de Pavía",
       "Batalla de Lepanto",
@@ -286,7 +285,7 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 3 - Pregunta 6: ¿Qué hecho provocó el inicio de las guerras carlistas?",
+    pregunta: "¿Qué hecho provocó el inicio de las guerras carlistas?",
     opciones: [
       "La Pragmatica Sanción de Fernando VII",
       "La abdicación de Carlos IV",
@@ -296,12 +295,12 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 3 - Pregunta 7: ¿En qué año tuvo lugar la derrota final de los carlistas en la Primera Guerra Carlista?",
+    pregunta: "¿En qué año tuvo lugar la derrota final de los carlistas en la Primera Guerra Carlista?",
     opciones: ["1839", "1846", "1872", "1868"],
     correcta: 0
   },
   {
-    pregunta: "Parte 4 - Pregunta 8: ¿Qué excusa usó Estados Unidos para declarar la guerra a España en 1898?",
+    pregunta: "¿Qué excusa usó Estados Unidos para declarar la guerra a España en 1898?",
     opciones: [
       "La Revolución de la Gloriosa",
       "El hundimiento del Maine en La Habana",
@@ -311,7 +310,7 @@ export const questions = [
     correcta: 1
   },
   {
-    pregunta: "Parte 4 - Pregunta 9: ¿Qué tratado firmaron España y Estados Unidos al finalizar la Guerra Hispano-Estadounidense?",
+    pregunta: "¿Qué tratado firmaron España y Estados Unidos al finalizar la Guerra Hispano-Estadounidense?",
     opciones: [
       "Tratado de Versalles",
       "Tratado de París",
@@ -321,7 +320,7 @@ export const questions = [
     correcta: 1
   },
   {
-    pregunta: "Parte 5 - Pregunta 10: ¿Qué acontecimiento provocó la batalla de Melilla en 1909?",
+    pregunta: "¿Qué acontecimiento provocó la batalla de Melilla en 1909?",
     opciones: [
       "La insurrección de los moros",
       "La ocupación de Ceuta por España",
@@ -331,7 +330,7 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 5 - Pregunta 11: ¿Qué evento marcó el principio de la Guerra Civil Española?",
+    pregunta: "¿Qué evento marcó el principio de la Guerra Civil Española?",
     opciones: [
       "El golpe de estado de Francisco Franco",
       "La batalla del Ebro",
@@ -341,7 +340,7 @@ export const questions = [
     correcta: 2
   },
   {
-    pregunta: "Parte 6 - Pregunta 12: ¿Qué países participaron en la División Azul durante la Segunda Guerra Mundial?",
+    pregunta: "¿Qué países participaron en la División Azul durante la Segunda Guerra Mundial?",
     opciones: [
       "España y Alemania",
       "España y Italia",
@@ -351,17 +350,17 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 6 - Pregunta 13: ¿En qué año tuvo lugar la Guerra de Ifni-Sahara?",
+    pregunta: "¿En qué año tuvo lugar la Guerra de Ifni-Sahara?",
     opciones: ["1956", "1967", "1958", "1960"],
     correcta: 2
   },
   {
-    pregunta: "Parte 7 - Pregunta 14: ¿En qué año comenzó la Campaña del Rif, en la que Abd el-Krim se destacó como líder de los insurgentes?",
+    pregunta: "¿En qué año comenzó la Campaña del Rif, en la que Abd el-Krim se destacó como líder de los insurgentes?",
     opciones: ["1921", "1923", "1920", "1927"],
     correcta: 0
   },
   {
-    pregunta: "Parte 7 - Pregunta 15: ¿Qué acontecimiento marcó el fin de la Campaña del Rif?",
+    pregunta: "¿Qué acontecimiento marcó el fin de la Campaña del Rif?",
     opciones: [
       "La Batalla de Annual",
       "La rendición de Abd el-Krim",
@@ -371,7 +370,7 @@ export const questions = [
     correcta: 2
   },
   {
-    pregunta: "Parte 7 - Pregunta 16: ¿Qué figura española fue clave en la creación de las tropas regulares indígenas durante la Campaña del Rif?",
+    pregunta: "¿Qué figura española fue clave en la creación de las tropas regulares indígenas durante la Campaña del Rif?",
     opciones: [
       "Francisco Franco",
       "José Millán Astray",
@@ -381,7 +380,7 @@ export const questions = [
     correcta: 2
   },
   {
-    pregunta: "Parte 7 - Pregunta 17: ¿En qué batalla sufrió el Ejército Español la humillante derrota en el Barranco del Lobo durante la Guerra del Rif?",
+    pregunta: "¿En qué batalla sufrió el Ejército Español la humillante derrota en el Barranco del Lobo durante la Guerra del Rif?",
     opciones: [
       "Batalla de Annual",
       "Batalla de Alhucemas",
@@ -391,7 +390,7 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 7 - Pregunta 18: ¿Qué acontecimiento provocó la creación del Protectorado Español en Marruecos?",
+    pregunta: "¿Qué acontecimiento provocó la creación del Protectorado Español en Marruecos?",
     opciones: [
       "La Conferencia de Berlín de 1885",
       "El Tratado de Fes de 1912",
@@ -401,12 +400,12 @@ export const questions = [
     correcta: 1
   },
   {
-    pregunta: "Parte 8 - Pregunta 19: ¿En qué año ocurrió el Desastre de Annual, que significó una de las peores derrotas de las tropas españolas en Marruecos?",
+    pregunta: "¿En qué año ocurrió el Desastre de Annual, que significó una de las peores derrotas de las tropas españolas en Marruecos?",
     opciones: ["1921", "1920", "1911", "1912"],
     correcta: 0
   },
   {
-    pregunta: "Parte 8 - Pregunta 20: ¿Qué general español fue responsable de la derrota en el Desastre de Annual?",
+    pregunta: "¿Qué general español fue responsable de la derrota en el Desastre de Annual?",
     opciones: [
       "Francisco Franco",
       "Juan Yagüe",
@@ -416,7 +415,7 @@ export const questions = [
     correcta: 3
   },
   {
-    pregunta: "Parte 8 - Pregunta 21: ¿Qué operación permitió la victoria española en la Campaña de Alhucemas?",
+    pregunta: "¿Qué operación permitió la victoria española en la Campaña de Alhucemas?",
     opciones: [
       "Operación Lince",
       "Operación Pañuelo",
@@ -426,12 +425,12 @@ export const questions = [
     correcta: 3
   },
   {
-    pregunta: "Parte 8 - Pregunta 22: ¿En qué año tuvo lugar el desembarco de Alhucemas?",
+    pregunta: "¿En qué año tuvo lugar el desembarco de Alhucemas?",
     opciones: ["1925", "1921", "1912", "1923"],
     correcta: 0
   },
   {
-    pregunta: "Parte 9 - Pregunta 23: ¿Qué fue lo que provocó el inicio de la Guerra Civil Española en 1936?",
+    pregunta: "¿Qué fue lo que provocó el inicio de la Guerra Civil Española en 1936?",
     opciones: [
       "El golpe de estado de Francisco Franco",
       "La ocupación de Madrid por las tropas republicanas",
@@ -441,7 +440,7 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 9 - Pregunta 24: ¿Qué batalla representó un punto clave en la Guerra Civil Española?",
+    pregunta: "¿Qué batalla representó un punto clave en la Guerra Civil Española?",
     opciones: [
       "Batalla del Ebro",
       "Batalla de Madrid",
@@ -451,17 +450,17 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 9 - Pregunta 25: ¿Qué ley aprobada en 1931 fue clave para la reorganización del ejército republicano?",
+    pregunta: "¿Qué ley aprobada en 1931 fue clave para la reorganización del ejército republicano?",
     opciones: [
       "La Ley del Cuerpo de Suboficiales",
       "La Ley de Reforma Agraria",
       "La Ley de Defensa de la República",
       "La Ley de Conscripción Militar"
     ],
-    correcta: 2
+    correcta: 0
   },
   {
-    pregunta: "Parte 9 - Pregunta 26: ¿Qué fue la Brigada Internacional durante la Guerra Civil Española?",
+    pregunta: "¿Qué fue la Brigada Internacional durante la Guerra Civil Española?",
     opciones: [
       "Un grupo de soldados rusos",
       "Una brigada militar española",
@@ -471,12 +470,12 @@ export const questions = [
     correcta: 2
   },
   {
-    pregunta: "Parte 10 - Pregunta 27: ¿En qué año España envió la División Azul a combatir en la Unión Soviética?",
+    pregunta: "¿En qué año España envió la División Azul a combatir en la Unión Soviética?",
     opciones: ["1941", "1942", "1939", "1940"],
     correcta: 0
   },
   {
-    pregunta: "Parte 10 - Pregunta 28: ¿Cuál fue la función de la División Azul durante la Segunda Guerra Mundial?",
+    pregunta: "¿Cuál fue la función de la División Azul durante la Segunda Guerra Mundial?",
     opciones: [
       "Combatir en el Frente del Este en apoyo de los nazis",
       "Apoyar a los aliados en África",
@@ -486,7 +485,7 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 10 - Pregunta 29: ¿Qué fue el Régimen de Franco durante la Segunda Guerra Mundial?",
+    pregunta: "¿Qué fue el Régimen de Franco durante la Segunda Guerra Mundial?",
     opciones: [
       "Un aliado clave de las potencias del Eje",
       "Un país neutral que mantuvo relaciones con los Aliados",
@@ -496,12 +495,12 @@ export const questions = [
     correcta: 1
   },
   {
-    pregunta: "Parte 11 - Pregunta 30: ¿En qué año tuvo lugar la Guerra de Ifni-Sahara?",
+    pregunta: "¿En qué año tuvo lugar la Guerra de Ifni-Sahara?",
     opciones: ["1958", "1960", "1965", "1956"],
     correcta: 0
   },
   {
-    pregunta: "Parte 11 - Pregunta 31: ¿Qué provocó la Guerra de Ifni-Sahara en 1958?",
+    pregunta: "¿Qué provocó la Guerra de Ifni-Sahara en 1958?",
     opciones: [
       "La reclamación de territorio por parte de Marruecos",
       "La lucha por el control del Estrecho de Gibraltar",
@@ -511,7 +510,7 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 11 - Pregunta 32: ¿Qué operación española en el Sahara fue conocida como 'Operación Pañuelo'?",
+    pregunta: "¿Qué operación española en el Sahara fue conocida como 'Operación Pañuelo'?",
     opciones: [
       "Una operación para liberar a los prisioneros de guerra",
       "Una ofensiva para asegurar la zona del Ifni",
@@ -521,12 +520,12 @@ export const questions = [
     correcta: 1
   },
   {
-    pregunta: "Parte 11 - Pregunta 33: ¿En qué año España terminó su presencia en Ifni?",
+    pregunta: "¿En qué año España terminó su presencia en Ifni?",
     opciones: ["1960", "1958", "1965", "1975"],
     correcta: 0
   },
   {
-    pregunta: "Parte 12 - Pregunta 34: ¿Quién fue el principal líder del Tercio de Extranjeros durante su creación en 1920?",
+    pregunta: "¿Quién fue el principal líder del Tercio de Extranjeros durante su creación en 1920?",
     opciones: [
       "Francisco Franco",
       "José Millán Astray",
@@ -536,7 +535,7 @@ export const questions = [
     correcta: 1
   },
   {
-    pregunta: "Parte 12 - Pregunta 35: ¿En qué batalla de la Guerra Civil Española las fuerzas republicanas intentaron tomar Madrid, pero fueron repelidas?",
+    pregunta: "¿En qué batalla de la Guerra Civil Española las fuerzas republicanas intentaron tomar Madrid, pero fueron repelidas?",
     opciones: [
       "Batalla de Madrid",
       "Batalla del Ebro",
@@ -546,7 +545,7 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 13 - Pregunta 36: ¿Qué acontecimiento desencadenó la Primera Crisis Marroquí de 1905-1906?",
+    pregunta: "¿Qué acontecimiento desencadenó la Primera Crisis Marroquí de 1905-1906?",
     opciones: [
       "El ataque de los moros a Melilla",
       "La Conferencia de Algeciras",
@@ -556,7 +555,7 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 13 - Pregunta 37: ¿En qué conferencia internacional se resolvió la Primera Crisis Marroquí?",
+    pregunta: "¿En qué conferencia internacional se resolvió la Primera Crisis Marroquí?",
     opciones: [
       "Conferencia de Versalles",
       "Conferencia de Berlín",
@@ -566,7 +565,7 @@ export const questions = [
     correcta: 2
   },
   {
-    pregunta: "Parte 14 - Pregunta 38: ¿Qué tipo de armas formaban el armamento básico de la infantería española antes de la Guerra Civil?",
+    pregunta: "¿Qué tipo de armas formaban el armamento básico de la infantería española antes de la Guerra Civil?",
     opciones: [
       "Fusiles Mauser y pistolas Star",
       "Fusiles de repetición y ametralladoras Maxim",
@@ -576,7 +575,7 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 14 - Pregunta 39: ¿Qué figura militar fue clave en la victoria de la Guerra del Rif para España?",
+    pregunta: "¿Qué figura militar fue clave en la victoria de la Guerra del Rif para España?",
     opciones: [
       "Francisco Franco",
       "José Millán Astray",
@@ -586,12 +585,12 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 15 - Pregunta 40: ¿En qué año se aprobó el Decreto que reorganizó el Cuerpo de Suboficiales en España durante la Segunda República?",
+    pregunta: "¿En qué año se aprobó el Decreto que reorganizó el Cuerpo de Suboficiales en España durante la Segunda República?",
     opciones: ["1931", "1934", "1929", "1936"],
     correcta: 0
   },
   {
-    pregunta: "Parte 15 - Pregunta 41: ¿Qué figura fue central en la constitución del ejército de la República durante la Guerra Civil Española?",
+    pregunta: "Qué figura fue central en la constitución del ejército de la República durante la Guerra Civil Española?",
     opciones: [
       "Francisco Franco",
       "José Antonio Primo de Rivera",
@@ -601,7 +600,7 @@ export const questions = [
     correcta: 2
   },
   {
-    pregunta: "Parte 15 - Pregunta 42: ¿Qué acontecimiento militar clave ocurrió durante la Batalla de Brunete?",
+    pregunta: "¿Qué acontecimiento militar clave ocurrió durante la Batalla de Brunete?",
     opciones: [
       "La ofensiva inicial republicana y posterior victoria nacionalista",
       "La toma de Madrid por las fuerzas nacionales",
@@ -611,17 +610,17 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 16 - Pregunta 43: ¿En qué año se produjo la famosa Batalla de Madrid durante la Guerra Civil Española?",
+    pregunta: "¿En qué año se produjo la famosa Batalla de Madrid durante la Guerra Civil Española?",
     opciones: ["1936", "1939", "1937", "1940"],
     correcta: 0
   },
   {
-    pregunta: "Parte 16 - Pregunta 44: ¿Qué lugar de la península ibérica fue clave para la defensa de la República durante la Guerra Civil Española?",
+    pregunta: "¿Qué lugar de la península ibérica fue clave para la defensa de la República durante la Guerra Civil Española?",
     opciones: ["Guadalajara", "Barcelona", "Madrid", "Bilbao"],
     correcta: 2
   },
   {
-    pregunta: "Parte 17 - Pregunta 45: ¿Qué motivo llevó a España a enviar la División Azul al frente oriental durante la Segunda Guerra Mundial?",
+    pregunta: "¿Qué motivo llevó a España a enviar la División Azul al frente oriental durante la Segunda Guerra Mundial?",
     opciones: [
       "Apoyo a los aliados occidentales",
       "Apoyo a la invasión nazi de la URSS",
@@ -631,7 +630,7 @@ export const questions = [
     correcta: 1
   },
   {
-    pregunta: "Parte 17 - Pregunta 46: ¿Qué papel desempeñó la División Azul durante la batalla de Stalingrado?",
+    pregunta: "¿Qué papel desempeñó la División Azul durante la batalla de Stalingrado?",
     opciones: [
       "Combatió junto al Ejército Rojo contra los nazis",
       "No participó debido a la neutralidad de España",
@@ -641,7 +640,7 @@ export const questions = [
     correcta: 2
   },
   {
-    pregunta: "Parte 18 - Pregunta 47: ¿Qué tratado puso fin a la Guerra de Independencia española entre 1808 y 1814?",
+    pregunta: "¿Qué tratado puso fin a la Guerra de Independencia española entre 1808 y 1814?",
     opciones: [
       "Tratado de París",
       "Tratado de Fontainebleau",
@@ -651,7 +650,7 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 18 - Pregunta 48: ¿Quién fue el líder militar español que dirigió las tropas en la defensa contra Napoleón durante la Guerra de Independencia?",
+    pregunta: "¿Quién fue el líder militar español que dirigió las tropas en la defensa contra Napoleón durante la Guerra de Independencia?",
     opciones: [
       "José de Palafox",
       "Francisco de Goya",
@@ -661,7 +660,7 @@ export const questions = [
     correcta: 0
   },
   {
-    pregunta: "Parte 19 - Pregunta 49: ¿Cuál fue la principal causa de la derrota española en la Guerra Hispanoamericana de 1898?",
+    pregunta: "¿Cuál fue la principal causa de la derrota española en la Guerra Hispanoamericana de 1898?",
     opciones: [
       "La superioridad de la flota estadounidense",
       "La falta de apoyo de las colonias españolas",
